@@ -1,0 +1,7 @@
+{
+  "name": "ethglobal-bangkok",
+  "version": "1.0.0",
+  "dependencies": {
+    "puppeteer": "^23.8.0"
+  }
+}
